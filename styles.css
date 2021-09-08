@@ -1,7 +1,6 @@
-body {
-
-background-color: whitesmoke;
-      }
+    body{
+        background-color: whitesmoke;
+       }
 h1{
   color:#66BFBF;
 }
@@ -23,10 +22,7 @@ border-width: 8px;
  }
  
 
-body  
-{
-background-color: whitesmoke;
-      }
+
 h1{
   color:#66BFBF;
 }
@@ -53,3 +49,4 @@ border-width: 8px;
  table{
   border-collapse: separate; border-spacing: 10px;
  }
+
